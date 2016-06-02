@@ -1,0 +1,25 @@
+{
+  "name": "api-practise",
+  "version": "1.0.0",
+  "description": "Build a RESTful API Using Node and Express 4",
+  "main": "server.js",
+  "dependencies": {
+        "express": "~4.0.0",
+        "mongoose": "~3.6.13",
+        "body-parser": "~1.0.1"
+    },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjoe19/api-practise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjoe19/api-practise/issues"
+  },
+  "homepage": "https://github.com/rjoe19/api-practise#readme"
+}
